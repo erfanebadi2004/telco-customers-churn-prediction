@@ -49,5 +49,5 @@ I used `PDP` to visualize the correlation between the impact of key features and
 
 **Technologies Used:**
 * **Language:** `Python`
-* **Libraries:** `Pandas` , `NumPy` , `Matplotlib` , `Seaborn`
+* **Libraries:** `Pandas` , `NumPy` , `Matplotlib` , `Seaborn`, `SweetViz`
 * **Machine Learning:** `Scikit-learn` , `XGBoost` , `CatBoost` , `Imbalanced-learn`
